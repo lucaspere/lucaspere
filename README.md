@@ -12,6 +12,7 @@ I enjoy building real-time apps and smart contracts.
 
 ## 🥇 Specialised in
 <p> 🔸 BlockChain - NEAR Protocol, Solana
+<br>🔸 APIs - gRPC, Rest, GraphQL, RabbitMQ.
 <br>🔸 Database - PostgreSQL, MongoDB
 <br>🔸 FrontEnd - React.js
 <br>🔸 BackEnd - Node, Rust
