@@ -32,6 +32,3 @@ I enjoy building real-time apps and smart contracts.
   
 ## 📫 Connect with Me
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfap/)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspere&show_icons=true&theme=cobalt"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspere&layout=compact&theme=cobalt"/>
