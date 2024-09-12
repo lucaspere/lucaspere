@@ -11,7 +11,7 @@ A Full-Stack and Blockchain Engineer focused in User/Dev Experience and APIs. Cu
 I enjoy building real-time apps and smart contracts.
 
 ## 🥇 Specialised in
-<p> 🔸 BlockChain - NEAR Protocol, Solana
+<p> 🔸 Web3 - NEAR Protocol, Solana
 <br>🔸 APIs - gRPC, Rest, GraphQL, RabbitMQ.
 <br>🔸 Database - PostgreSQL, MongoDB
 <br>🔸 FrontEnd - React.js
