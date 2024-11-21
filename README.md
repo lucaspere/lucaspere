@@ -3,18 +3,17 @@
 </h2>
 
 <h4 align='center'>
-  (Blockchain | FullStack) Engineer
+  (Blockchain | Backend) Engineer
 </h4>
 
 
-A Full-Stack and Blockchain Engineer focused in User/Dev Experience and APIs. Currently I'm programming in WebAssembly and NEAR Protocol Blockchain.</h3>
-I enjoy building real-time apps and smart contracts.
+A Back-end and Web3 Engineer focused in User/Dev Experience and APIs. Currently I'm programming in WebAssembly.</h3>
+I enjoy building real-time apps and smart contracts in Rust environment.
 
 ## 🥇 Specialised in
-<p> 🔸 Web3 - NEAR Protocol, Solana
-<br>🔸 APIs - gRPC, Rest, GraphQL, RabbitMQ.
-<br>🔸 Database - PostgreSQL, MongoDB
-<br>🔸 FrontEnd - React.js
+<p> 🔸 Web3 - Solana
+<br>🔸 APIs - gRPC, Rest, RabbitMQ.
+<br>🔸 Database - PostgreSQL, Redis, MongoDB
 <br>🔸 BackEnd - Node, Rust
 <br>🔸 Cloud - AWS and GCP
 <p>
