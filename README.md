@@ -8,7 +8,7 @@
 
 
 A Back-end and Web3 Engineer focused in User/Dev Experience and APIs. Currently I'm programming in WebAssembly.</h3>
-I enjoy building real-time apps and smart contracts in Rust environment.
+I enjoy building real-time apps in Rust environment.
 
 ## 🥇 Specialised in
 <p> 🔸 Web3 - Solana
