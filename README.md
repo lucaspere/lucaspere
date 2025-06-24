@@ -5,9 +5,8 @@
  <h4 align='center'>
    (Blockchain | Backend) Engineer
  </h4>
-
-A Back-end and Web3 Engineer focused in User/Dev Experience and APIs. Currently I'm programming in WebAssembly.</h3>
-I enjoy building real-time apps in Rust environment.
+ 
+I'm a Back-end Engineer passionate about decentralized systems, particularly within Decentralized Finance (DeFi) and the high-performance mechanics of Decentralized Exchanges (DEXs). With a strong focus on Developer Experience (DX) and robust APIs, my toolkit of choice is Rust. I am actively exploring WebAssembly (WASM) to power the next generation of secure, real-time trading applications
 
 ## 🥇 Specialised in
 
